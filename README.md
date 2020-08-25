@@ -1,2 +1,5 @@
 # Progetto-di-Reti-Logiche
-Progetto di Reti Logiche AA 2019-2020
+
+Linguaggio: VHDL
+Software Utilizzato: Xilinx Vivado 2020.1 WebPack
+FPGA utilizzata_ cx7a200tfbg484-1
