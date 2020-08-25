@@ -4,7 +4,6 @@ Anno Accademico 2019-2020 @PoliMI
 + Linguaggio: VHDL 
 + Software Utilizzato: [Xilinx Vivado 2020.1 WebPack](https://www.xilinx.com/products/design-tools/vivado/vivado-webpack.html) 
 + FPGA utilizzata: xc7a200tfbg484-1
-+ 
 
 Copyright <2020> <Luca Redaelli>
 
