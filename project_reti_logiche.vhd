@@ -1,7 +1,7 @@
 --------------------------------------------------------------------------------------------
 -- Politecnico Di Milano
--- Luca Redaelli, Matteo Riboldi
--- Matricole 888179 e 
+-- Luca Redaelli
+-- Matricole 888179
 -- Progetto di Reti Logiche AA 2019-2020
 --------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------
@@ -83,7 +83,7 @@ type state_type is(
     elsif (rising_edge(i_clk)) then 
         case state is -- Selezione degli stati della macchina
             
-            -- Stato iniziale della macchina. Una volta che il segnale di start è stato portato ad uno 
+            -- Stato iniziale della macchina. Una volta che il segnale di start Ã¨ stato portato ad uno 
             -- (solo dopo che lo stato di reset sia stato portato a 0) inizializza le variabili e gli stati.     
             when START =>
                 if (i_start = '1' AND i_rst = '0') then                                                      
